@@ -1,0 +1,17 @@
+Сводный отчет по экспериментам
+===================================
+
+Общее количество экспериментов: 8
+Количество экспериментов с точностью выше 0.9: 3
+Количество экспериментов с BERT-моделями: 4
+
+Эксперименты с точностью выше 0.9:
+exp_002: GPT-2, accuracy=0.923, training_time=120.8, dataset_size=1000
+exp_006: GPT-2, accuracy=0.945, training_time=125.3, dataset_size=2000
+exp_007: BERT-large, accuracy=0.912, training_time=182.1, dataset_size=2000
+
+Эксперименты с BERT-моделями:
+exp_001: BERT-small, accuracy=0.847, training_time=45.2, dataset_size=1000
+exp_003: BERT-large, accuracy=0.891, training_time=180.5, dataset_size=1000
+exp_005: BERT-small, accuracy=0.852, training_time=44.8, dataset_size=2000
+exp_007: BERT-large, accuracy=0.912, training_time=182.1, dataset_size=2000

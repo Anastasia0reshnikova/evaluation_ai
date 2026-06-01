@@ -1,0 +1,9 @@
+experiment_id,model_name,accuracy,training_time,dataset_size
+exp_001,BERT-small,0.847,45.2,1000
+exp_002,GPT-2,0.923,120.8,1000
+exp_003,BERT-large,0.891,180.5,1000
+exp_004,Random-Forest,0.756,12.1,1000
+exp_005,BERT-small,0.852,44.8,2000
+exp_006,GPT-2,0.945,125.3,2000
+exp_007,BERT-large,0.912,182.1,2000
+exp_008,Random-Forest,0.778,23.4,2000
